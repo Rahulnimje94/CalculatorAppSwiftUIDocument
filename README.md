@@ -1,6 +1,6 @@
 # Calculator App SwiftUI Document
 
-SwiftUI is a modern and declarative framework for building user interfaces across Apple platforms, including iOS, macOS, watchOS, and tvOS. In this documentation, we will guide you through the process of building a calculator app in SwiftUI.
+SwiftUI is a modern and declarative framework for building user interfaces across Apple platforms, including iOS, macOS, watchOS, and tvOS. In this documentation, we'll guide you through the process of building a calculator app in SwiftUI.
 
 
 Step 1: Setting Up a New Project
@@ -46,4 +46,7 @@ Step 5: Testing the App
 
 
 Conclusion:
-In this documentation, we have walked you through the process of building a calculator app in SwiftUI. By following these steps, you should have a fully functional calculator app that you can use as a starting point for more complex apps. Keep practicing and exploring the capabilities of SwiftUI to build more advanced and powerful apps.
+In this documentation, we've walked you through the process of building a calculator app in SwiftUI. By following these steps, you should have a fully functional calculator app that you can use as a starting point for more complex apps. Keep practicing and exploring the capabilities of SwiftUI to build more advanced and powerful apps.
+
+
+Note: Please note that this document has been produced by ChatGPT and is intended solely for educational purposes.
