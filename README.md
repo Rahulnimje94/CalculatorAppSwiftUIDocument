@@ -1,4 +1,4 @@
-# CalculatorAppSwiftUIDocument
+# Calculator App SwiftUI Document
 
 SwiftUI is a modern and declarative framework for building user interfaces across Apple platforms, including iOS, macOS, watchOS, and tvOS. In this documentation, we will guide you through the process of building a calculator app in SwiftUI.
 
